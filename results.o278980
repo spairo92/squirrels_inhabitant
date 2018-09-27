@@ -1,0 +1,18 @@
+SUMMARY -- Month = 1. Number of squirrels = 34. Number Infected = 4. 
+SUMMARY -- Month = 2. Number of squirrels = 36. Number Infected = 1. 
+SUMMARY -- Month = 3. Number of squirrels = 42. Number Infected = 5. 
+SUMMARY -- Month = 4. Number of squirrels = 44. Number Infected = 5. 
+SUMMARY -- Month = 5. Number of squirrels = 43. Number Infected = 8. 
+SUMMARY -- Month = 6. Number of squirrels = 42. Number Infected = 11. 
+SUMMARY -- Month = 7. Number of squirrels = 42. Number Infected = 13. 
+SUMMARY -- Month = 8. Number of squirrels = 37. Number Infected = 11. 
+SUMMARY -- Month = 9. Number of squirrels = 35. Number Infected = 17. 
+SUMMARY -- Month = 10. Number of squirrels = 25. Number Infected = 14. 
+SUMMARY -- Month = 11. Number of squirrels = 15. Number Infected = 11. 
+SUMMARY -- Month = 12. Number of squirrels = 7. Number Infected = 6. 
+SUMMARY -- Month = 13. Number of squirrels = 2. Number Infected = 2. 
+Shutting down! All squirrels are dead. 
+SUMMARY -- Month = 24. Number of squirrels = 0. Number Infected = 1. 
+All squirrels have shut down. Communicator shutting down 
+Simulation finished with 0 Squirrels alive
+Total time = 62.236812 seconds 

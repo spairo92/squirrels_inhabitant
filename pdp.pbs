@@ -1,0 +1,22 @@
+#!/bin/bash --login
+#
+#PBS -l select=72
+#PBS -l place=excl
+#PBS -N results
+#PBS -A d154
+#PBS -l walltime=2:00:0
+
+
+
+# Switch to current working directory
+cd $PBS_O_WORKDIR
+
+# Load any required modules
+module load mpt
+module load intel-compilers-17
+
+# Run the parallel program
+mpirun -n 220 ./main
+
+
+
